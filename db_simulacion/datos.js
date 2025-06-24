@@ -14,7 +14,7 @@ localStorage.setItem("categorias", JSON.stringify(categorias));
 banners ={
     "101" : {codigo: "1018", titulo: "Promocion en Celulares Gama Baja y Vintage", descripcion:"👉 Samsung a 20, hoy con el 10% descuento y envio gratis a todo el pais.", imagen: "imagenes/4.jpg"},
     "102" : {codigo: "1014", titulo: "Promocion en Celulares Gama Media", descripcion:"👉 Samsung Galaxy A11, camara triple, 15% descuento, vidrio templado incluido.", imagen: "imagenes/2.jpg"},
-    "103" : {codigo: "1011", titulo: "Promocion en Celulares Gama Alta", descripcion:"👉 IPhone 13 Pro Max, Bateria 95%, iOS 17 y cargador nuevo original.", imagen: "imagenes/3.jpg"}
+    "103" : {codigo: "1011", titulo: "Promocion en Celulares Gama Alta", descripcion:"👉 IPhone 13 Pro Max, Bateria 95%, iOS 17 y cargador nuevo original.", imagen: "imagenes/aifon.jpeg"}
 
 };
 
