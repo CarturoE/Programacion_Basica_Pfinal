@@ -30,7 +30,7 @@ const Celulares = {
     nombre: "IPhone 13", 
     descripcion: "Celular IPhone 13, perfecto estado, batería 90%.",
     categoria: "104", 
-    imagen: "imagenes/ihone_13.jpeg", 
+    imagen: "imagenes/ipn13.jpeg", 
     precio: 1800000, 
     estado: "Estado: Seminuevo", 
     calificacion: 5,
